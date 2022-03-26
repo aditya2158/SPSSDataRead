@@ -1,0 +1,19 @@
+{
+  "name": "separateexcel",
+  "version": "1.0.0",
+  "description": "separate parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "text"
+  ],
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.3"
+  },
+    "type": "module"
+}
